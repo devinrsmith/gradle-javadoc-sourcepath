@@ -25,3 +25,7 @@ To workaround the issue, run:
 ```
 
 See [build.gradle](build.gradle) for more information.
+
+## Issue
+
+[gradle#19869](https://github.com/gradle/gradle/issues/19869)
